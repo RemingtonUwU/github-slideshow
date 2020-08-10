@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to second slide!"
 ---
-Sneet Snart
+Sneet Snart!
 Use the left arrow to go back!

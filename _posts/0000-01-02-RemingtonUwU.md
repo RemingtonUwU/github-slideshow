@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to second slide!"
 ---
-Santa Claus isn't real
+Sneet Snart
 Use the left arrow to go back!
